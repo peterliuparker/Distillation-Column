@@ -1,0 +1,3 @@
+init.mat file contains contains all the initialisation operations using the system model 
+cola_linearize and cola4_lin are the files that implements the linearisation process. 
+simulink file contains the simulation models.
